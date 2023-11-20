@@ -43,21 +43,13 @@ npm run build - production mode
 npm start - development mode
 ```
 
-```
 **_Development Code_** Your source code (HTML, CSS, JavaScript) will be placed in the 'src' directory. You can create or edit files in this directory, and Webpack will automatically process these files and generate output files in the 'dist' directory.
-```
 
-```
 **_Production Builds_** (npm run build) This will create an optimized and minified version of your code in the 'dist' directory.
-```
 
-```
 **_Working with Dependencies and Packages_** Depending on the needs of your project, you can also install additional packages and libraries, such as React, Vue, or others, and integrate them into your project.
-```
 
 **_Deployment on a Server_** Your ready production build can be deployed on a
 server or hosting platform using the respective instructions or tools.
 
-```
 _Additionally_, this project includes optimizations for images and styles using the following plugins: _MiniCssExtractPlugin_, _ImageminWebpackPlugin_. These plugins enhance the performance and efficiency of your project by handling styles and images effectively.
-```

@@ -1,5 +1,5 @@
 {
-  "name": "botsman-shop",
+  "name": "my-webpack-project",
   "version": "1.0.0",
   "description": "My webpack project",
   "private": true,
@@ -17,15 +17,15 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Tanya8135/botsman-shop.git"
+    "url": "git+https://github.com/Tanya8135/webpack.git"
   },
   "keywords": [],
   "author": "Tanya8135",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Tanya8135/botsman-shop/issues"
+    "url": "https://github.com/Tanya8135/webpack/issues"
   },
-  "homepage": "https://github.com/Tanya8135/botsman-shop",
+  "homepage": "https://github.com/Tanya8135/webpack",
   "devDependencies": {
     "@babel/core": "^7.19.3",
     "@babel/preset-env": "^7.19.4",
